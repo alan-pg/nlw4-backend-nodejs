@@ -27,9 +27,5 @@ app.use(
   }
 );
 
-app.get("/teste", (req, res) => {
-  res.json({ res: "opaa" });
-});
-
 export { app };
 
