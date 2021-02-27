@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="backend-nps" src=".readmeImg/preview.png" width="100%">
+  <img alt="backend-nps" src="readmeImg/preview.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
