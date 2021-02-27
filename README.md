@@ -19,6 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Ethereal-Email](https://ethereal.email/)
+- [Handlebarsjs](https://handlebarsjs.com/)
 - [TypeORM](https://typeorm.io/#/)
 - [Express](https://expressjs.com/pt-br/)
 - [Jest](https://jestjs.io/)
