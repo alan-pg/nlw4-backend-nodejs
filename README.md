@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="backend-nps" src=".readmeimg/preview.png" width="100%">
+  <img alt="backend-nps" src=".readmeImg/preview.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 
 ## 🔶 Diagrama
 
-<img src="readmeimg/diagrama.png" alt="Diagrama da aplicação" />
+<img src="readmeImg/diagrama.png" alt="Diagrama da aplicação" />
 
 ## 🚀 Como executar
 
