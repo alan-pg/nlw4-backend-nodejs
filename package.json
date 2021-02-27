@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "ts-node-dev --transpile-only --ignore-watch node_modules src/server.ts",
     "typeorm": "ts-node-dev node_modules/typeorm/cli.js",
-    "test": "set env:NODE_ENV='test' && jest -i",
+    "test": "set env:NODE_ENV='test' && jest -i --detectOpenHandles",
     "posttest": "rimraf ./src/database/database.test.sqlite"
   },
   "dependencies": {
